@@ -1,0 +1,31 @@
+_repo: The-Crisis-of-Eighteen-Hundred-and-Sixty-One-In-The-Government-of-The-United-States.Its-Cause__38554
+_version: 0.1.0
+alternative_title: "The Crisis of 1861 in the Government of the United States.\r\n\
+  Its Cause, and How It Should Be Met"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Streight, Abel D.
+    alias: Streight, A. D. (Abdel D.)
+    birthdate: 1829
+    deathdate: 1892
+    gutenberg_agent_id: '39527'
+    url: http://www.gutenberg.org/2009/agents/39527
+description: ''
+gutenberg_issued: '2012-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Secession'
+- !lcc 'E300'
+- !lcsh 'United States -- Politics and government -- 1857-1861'
+title: "The Crisis of Eighteen Hundred and Sixty-One in the Government of the United\
+  \ States.\r\nIts Cause, and How It Should Be Met"
+url: http://www.gutenberg.org/ebooks/38554
