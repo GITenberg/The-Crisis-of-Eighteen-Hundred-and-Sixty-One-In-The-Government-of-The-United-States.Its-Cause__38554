@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39527'
     url: http://www.gutenberg.org/2009/agents/39527
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38554#The-Crisis-of-Eighteen-Hundred-and-Sixty-One-In-The-Government-of-The-United-States.Its-Cause_
 gutenberg_issued: '2012-01-11'
 gutenberg_type: Text
 identifiers:
